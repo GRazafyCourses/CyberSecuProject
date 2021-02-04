@@ -18,6 +18,8 @@ step to reproduce :
 
 * set up **dvwa** as explain here : https://github.com/digininja/DVWA I used **XAMPP** and **Windows**
 
+* You will need to set up the files of DVWA here : `C:\xampp\htdocs\dvwa\DVWA-master`
+
 * Launch python script `brakeDVWALow.py`
 
 
