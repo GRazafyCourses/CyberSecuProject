@@ -1,7 +1,18 @@
-#### README
+# README
+
+## Context
 
 This work is a project for the cybersecurity classes in AGH Poland
 
+The goal of this project is to set up a tool to test the vulnerabilities of a web application, I chose to use **DVWA** which is an application use by beginner to learn about vulnerabilities and how to patch them. 
+
+In this tool you will find 3 options to test DVWA :
+
+* SQL Injection
+* Blind SQL Injection
+* Brute Force Using a dictionary of the most common worst password on the internet.
+
+## Set Up
 
 step to reproduce :
 
