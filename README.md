@@ -1,8 +1,11 @@
 #### README
 
+This work is a project for the cybersecurity classes in AGH Poland
+
+
 step to reproduce :
 
-* set up **dvwa** as explain here : https://github.com/digininja/DVWA i used **XAMPP** and **Windows**
+* set up **dvwa** as explain here : https://github.com/digininja/DVWA I used **XAMPP** and **Windows**
 
 * Launch python script `brakeDVWALow.py`
 
